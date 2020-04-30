@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Bryantellius/TS_Kitchen-Sink#readme",
   "dependencies": {
     "@types/jquery": "^3.3.34",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ts-loader": "^6.2.2",
     "typescript": "^3.8.3",
     "webpack": "^4.42.1",
